@@ -2,3 +2,4 @@ gouda
 munster
 jack cheddar
 pepper jack
+mozzarella
